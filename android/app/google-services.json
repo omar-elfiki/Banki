@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132680359432",
+    "project_id": "banki-app-eg",
+    "storage_bucket": "banki-app-eg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132680359432:android:40e51ea486dced187a3bbd",
+        "android_client_info": {
+          "package_name": "com.example.banki_app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Zh7k2wGMgK6HKDMKfT9NBqh_HByo0LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
